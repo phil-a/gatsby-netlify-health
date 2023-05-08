@@ -1,21 +1,29 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import facebook from "../img/social/facebook.svg";
+import instagram from "../img/social/instagram.svg";
+import youtube from "../img/social/youtube.svg";
+import pinterest from "../img/social/pinterest.svg";
+import twitter from "../img/social/twitter.svg";
+import logo from "../img/logo.png";
+import useScrollPosition from "../hooks/useScrollPosition";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
+  const scrollPosition = useScrollPosition()
+  const navbarOpaque = scrollPosition > 80
 
   return (
     <nav
-      className="navbar is-transparent"
+      className={`navbar is-fixed-top ${navbarOpaque ? 'is-opaque' : 'is-semitransparent'}`}
       role="navigation"
       aria-label="main-navigation"
     >
+      
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="Desire Radiant Health" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
@@ -34,14 +42,27 @@ const Navbar = () => {
                 re-write that makes this unneccesary.
              */}
             <li className="navbar-item" style={{padding: "0px"}}>
-              <Link className="navbar-item" to="/about">
-                About
-              </Link>
+            <Link className="navbar-item" to="/services">
+              Services
+            </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/products">
-              Products
-            </Link>
+            <div className="navbar-item has-dropdown is-arrowless is-hoverable">
+                <a className="navbar-link">
+                  About
+                </a>        
+                <div className="navbar-dropdown">
+                  <a className="navbar-item" href="/about#meet-olivia">
+                    Meet Olivia
+                  </a>
+                  {/* <Link className="navbar-item" to="/about#meet-olivia">
+                    About Olivia
+                  </Link> */}
+                  <Link className="navbar-item" to="/about">
+                    Holistic Nutrition
+                  </Link>
+                </div>
+              </div>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/blog">
@@ -53,20 +74,60 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
+            {/* <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
+            </li> */}
+            <li className="navbar-item" style={{padding: "0px"}}>
+            <Link className="navbar-item" to="/contact/examples">
+              Social
+            </Link>
             </li>
-          <li className="navbar-end has-text-centered">
+          <li className="navbar-end has-text-centered" >
+            <Link className="navbar-item" to="https://facebook.com">
+              <span className="icon">
+                <img src={facebook} alt="Facebook" />
+              </span>
+            </Link>
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://instagram.com"
               target="_blank"
               rel="noopener noreferrer"
             >
               <span className="icon">
-                <img src={github} alt="Github" />
+                <img src={instagram} alt="Instagram" />
+              </span>
+            </a>
+            <a
+              className="navbar-item"
+              href="https://youtube.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="icon">
+                <img src={youtube} alt="Youtube" />
+              </span>
+            </a>
+            <a
+              className="navbar-item"
+              href="https://pinterest.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="icon">
+                <img src={pinterest} alt="Pinterest" />
+              </span>
+            </a>
+            <a
+              className="navbar-item"
+              href="https://twitter.com"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span className="icon">
+                <img src={twitter} alt="Twitter" />
               </span>
             </a>
           </li>

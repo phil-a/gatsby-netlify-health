@@ -69,7 +69,7 @@ import CMS from "netlify-cms-app";
 
 import AboutPagePreview from "./preview-templates/AboutPagePreview";
 import BlogPostPreview from "./preview-templates/BlogPostPreview";
-import ProductPagePreview from "./preview-templates/ProductPagePreview";
+import ServicePagePreview from "./preview-templates/ServicePagePreview";
 import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 // CMS.registerMediaLibrary(uploadcare);
@@ -77,7 +77,7 @@ import IndexPagePreview from "./preview-templates/IndexPagePreview";
 
 CMS.registerPreviewTemplate("index", IndexPagePreview);
 CMS.registerPreviewTemplate("about", AboutPagePreview);
-CMS.registerPreviewTemplate("products", ProductPagePreview);
+CMS.registerPreviewTemplate("services", ServicePagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
 ```
 
@@ -133,3 +133,35 @@ This plugin uses [gatsby-plugin-purgecss](https://www.gatsbyjs.org/packages/gats
 
 Contributions are always welcome, no matter how large or small. Before contributing,
 please read the [code of conduct](CODE_OF_CONDUCT.md).
+
+# Todo
+- colors
+- separate about pages (match page titles with navbar)
+- add 'our mission' to about
+  - switch order of logo + meet olivia
+- about page new lines
+- markdown file formatting, font, spacing (about page)
+- https://desireradianthealth.wixsite.com/health/single-post/you-cant-heal-out-of-desire
+- fix up console warnings/errors
+- Index (General)
+  - General Put Detox above Blog
+  - Remove blue gradient
+  - Put freebie pic where blue gradient was
+  - Embed Mailer Service
+  - Fix navbar styling
+  - Add Booking to Navbar (Holistic Nutrition, Energy Healing)
+  - Remove Social page (temporarily)
+- Index (services)
+  - 1: Book Free 15 minute phone call
+  - 2: Holistic Nutrition Consultations
+  - 3: Energy & Sound Healing
+- Services
+  - ~~Put booking embed on top of services~~
+  - Keep services in same order
+  - Separate embed into own booking page
+- About
+  - Separate Pages - About Us & Holistic Nutrition
+- Blog
+  - Fix blog posts component styling
+- Contact
+  - Fix color and image

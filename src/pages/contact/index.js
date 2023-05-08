@@ -1,6 +1,7 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
+import FullWidthImage from "../../components/FullWidthImage";
 
 function encode(data) {
   return Object.keys(data)
@@ -36,10 +37,12 @@ export default class Index extends React.Component {
   render() {
     return (
       <Layout>
+        <div>
+        <FullWidthImage img="/img/warm-orange-squash-soup.jpg" title="Contact Us" hasGradient={true} />
+
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Contact</h1>
               <form
                 name="contact"
                 method="post"
@@ -57,7 +60,7 @@ export default class Index extends React.Component {
                   </label>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"name"}>
+                  <label className="label has-text-primary" htmlFor={"name"}>
                     Your name
                   </label>
                   <div className="control">
@@ -72,7 +75,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"email"}>
+                  <label className="label has-text-primary" htmlFor={"email"}>
                     Email
                   </label>
                   <div className="control">
@@ -87,7 +90,7 @@ export default class Index extends React.Component {
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={"message"}>
+                  <label className="label has-text-primary" htmlFor={"message"}>
                     Message
                   </label>
                   <div className="control">
@@ -109,6 +112,7 @@ export default class Index extends React.Component {
             </div>
           </div>
         </section>
+        </div>
       </Layout>
     );
   }

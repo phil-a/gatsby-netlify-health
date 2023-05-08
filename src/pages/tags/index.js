@@ -22,15 +22,15 @@ const TagsPage = ({
             style={{ marginBottom: "6rem" }}
           >
             <h1 className="title is-size-2 is-bold-light">Tags</h1>
-            <ul className="taglist">
+            <div className="tags">
               {group.map((tag) => (
-                <li key={tag.fieldValue}>
+                <span className="tag is-medium" key={tag.fieldValue}>
                   <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
                     {tag.fieldValue} ({tag.totalCount})
                   </Link>
-                </li>
+                </span>
               ))}
-            </ul>
+            </div>
           </div>
         </div>
       </div>
