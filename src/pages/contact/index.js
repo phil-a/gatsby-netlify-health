@@ -1,7 +1,7 @@
 import * as React from "react";
 import { navigate } from "gatsby-link";
 import Layout from "../../components/Layout";
-import FullWidthImage from "../../components/FullWidthImage";
+// import FullWidthImage from "../../components/FullWidthImage";
 
 function encode(data) {
   return Object.keys(data)
@@ -38,7 +38,7 @@ export default class Index extends React.Component {
     return (
       <Layout>
         <div>
-        <FullWidthImage img="/img/warm-orange-squash-soup.jpg" title="Contact Us" hasGradient={true} />
+        {/* <FullWidthImage img="/img/warm-orange-squash-soup.jpg" title="Contact Us" hasGradient={true} /> */}
 
         <section className="section">
           <div className="container">
