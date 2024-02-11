@@ -8,7 +8,7 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Thank you!</h1>
-          <p>This is a custom thank you page for form submissions</p>
+          <p>Someone from Desire Radiant Health will be in touch with you very shortly!</p>
         </div>
       </div>
     </section>

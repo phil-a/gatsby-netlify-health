@@ -256,6 +256,15 @@ a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-i
     span
       height: 2px
 
+@media (max-width: 1023px)
+  .is-semitransparent.large
+    #navMenu
+      a.navbar-item, a.navbar-link
+        color: black !important
+      span
+        filter: invert(0)
+
+
 .is-semitransparent.large
   background: rgba(0,0,0,0)
   background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 50%, rgba(0,0,0,0) 100%)
@@ -714,6 +723,9 @@ hr
   border-radius: 6px
   box-shadow: 2px 2px 6px rgba(0,0,0,0.1)
 
+.section-container
+  .label
+    color: black
 
 h1
   font-family: 'Lato', sans-serif

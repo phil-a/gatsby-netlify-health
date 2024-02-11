@@ -33,11 +33,6 @@ export const IndexPageTemplate = ({
 
   return (
     <div>
-
-
-
-
-
       <FullWidthImage
         img={heroImage}
         title={title}
@@ -204,7 +199,7 @@ viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
                 <div className="content">
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
-                      Latest stories
+                      Latest Posts
                     </h3>
                     <BlogRoll />
 
