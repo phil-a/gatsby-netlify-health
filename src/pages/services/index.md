@@ -1,37 +1,44 @@
 ---
 templateKey: 'service-page'
 path: /services
-title: Our Promise, Your Health
-image: /img/vegetables-summer-food.jpg
-heading: Start Your Healing Journey
+title: Holistic Nutrition
+image: /img/pomegranate.jpg
+heading: Book Your Free Consultation
 description: >-
   Start your journey with complementary fifteen minute phone call with Olivia.
 intro:
   blurbs:
-    - image: /img/vegetables-colorful.jpg
+    - image: /img/olivia_phone.jpg
       text: >
-        Looking to improve your nutrition and overall health? Schedule a consultation with a certified nutritionist today. Our personalized approach will help you reach your health goals and improve your relationship with food.
+        Seeking clarification of what holistic nutrition is & what to expect during an appointment with me?
+        Book a complementary 15 minute consultation with me over the phone.
+        Ask me any questions you may have and let me know why you are interested in seeing me.
       link:
-        url: "/"
-        text: "Book Consultation"
-    - image: /img/sound-meditation.jpg
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
+        text: "Book Free 15 Minute Consultation"
+    - image: /img/berry-bowl.jpg
       text: >
-        Experience the transformative power of sound healing. Our trained practitioners use a variety of instruments and techniques to create a relaxing and harmonizing environment, helping to reduce stress and promote physical, emotional, and spiritual well-being. Try a sound healing session today and discover the healing benefits for yourself.
+        Your first step to natural healing! 
+
+        In this initial assessment, we will go over your health history, your current symptoms, your main health goals/concerns, and much more! 
+
+        Upon booking, you will be sent forms to fill out beforehand that you must bring to this appointment. Your first follow-up appointment will be booked at the end of this session. Your individualized protocol will be ready for you then.
       link:
-        url: "/"
-        text: "Book Healing"
-    - image: /img/produce-squash-amber.jpg
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
+        text: "Initial Nutrition Assessment"
+    - image: /img/beets.jpg
       text: >
-        Join us for a holistic and organic cooking class and learn how to prepare nourishing, whole foods that support both your health and the environment. Our experienced instructors will guide you through the process of creating delicious, healthy meals using fresh, organic ingredients. Enhance your culinary skills and discover the joy of cooking with nature's bounty.
+        Follow-up appointments to your initial assessment. Here we will go over your individualized protocol strategy. 
       link:
-        url: "/"
-        text: "Book Class"
-    - image: /img/landscape-pineapple.jpg
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
+        text: "Book Follow-Up Appointments"
+    - image:  /img/breakfast-glass.jpg
       text: >
-        Join us for a guided grocery store tour and learn how to make healthier food choices for you and your family. Our certified nutritionist will teach you how to navigate the supermarket and make informed decisions about the products you buy. You'll leave the tour feeling empowered and equipped with the knowledge and tools to make healthier choices for yourself and your loved ones.
+        Initial Assessment + 3 Follow Up Appointments offered in a bundle with over 10% savings! 
+        $250 for the Initial Assessment and 3 Follow Ups charged at $60 each (valued at $75 each).
       link:
-        url: "/"
-        text: "Book Tour"
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
+        text: "Bundle Offer: Holistic Nutrition Package"
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -47,13 +54,13 @@ main:
     optimal.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/carrot-juice-portrait.jpg
+    image: /img/dark-eggplant-figs.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/nature-plant-white-leaf-flower.jpg
+    image: /img/cauli.jpg
   image3:
     alt: Coffee beans
-    image: /img/apple-plant-fruit-food-green-collection.jpg
+    image: /img/table-board-salad.jpg
 testimonials:
   - author: Sarah Davis
     quote: >-
@@ -61,7 +68,7 @@ testimonials:
   - author: Justin Anderson
     quote: >-
       I was blown away by the relaxation and inner peace it brought me. The practitioner was incredibly skilled and the combination of music and energy work left me feeling rejuvenated and balanced.
-full_image: /img/citrus-fruit-isolated.jpg
+full_image: /img/berries2.jpg
 pricing:
   heading: Detox your body 
   description: >-

@@ -15,7 +15,11 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <div className="p-5"><p>{item.text}</p></div>
-          <div className="p-5"><Link to={item.link.url} className="button is-primary is-light" style={{width: "100%", height: "50px"}}>{item.link.text}</Link></div>
+          <div className="p-5">
+            <Link to={item.link.url} className="button is-primary" style={{width: "100%", height: "50px"}}>
+              {item.link.text}
+            </Link>
+          </div>
         </section>
       </div>
     ))}

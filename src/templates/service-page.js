@@ -80,12 +80,15 @@ export const ServicePageTemplate = ({
           </div>
         </div>
       </section>
+
       <FullWidthImage
         img={fullWidthImage}
         objectFit={"contain"}
         imgPosition={"bottom"}
+        maxHeight={"100vh"}
       />
-      <section className="section section--gradient">
+
+      {/* <section className="section section--gradient">
         <div className="container">
           <div className="section">
             <div className="columns">
@@ -99,7 +102,7 @@ export const ServicePageTemplate = ({
             </div>
           </div>
         </div>
-      </section>
+      </section> */}
     </div>
   );
 };

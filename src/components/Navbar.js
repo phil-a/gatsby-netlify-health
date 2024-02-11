@@ -15,7 +15,7 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`navbar is-fixed-top ${navbarOpaque ? 'is-opaque' : 'is-semitransparent'}`}
+      className={`navbar is-fixed-top ${navbarOpaque ? 'is-semitransparent small' : 'is-semitransparent large'}`}
       role="navigation"
       aria-label="main-navigation"
     >
@@ -42,9 +42,14 @@ const Navbar = () => {
                 re-write that makes this unneccesary.
              */}
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/services">
-              Services
-            </Link>
+              <Link className="navbar-item" to="/services">
+                Holistic Nutrition
+              </Link>
+            </li>
+            <li className="navbar-item" style={{padding: "0px"}}>
+              <Link className="navbar-item" to="/healing">
+                Energy Healing
+              </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
             <div className="navbar-item has-dropdown is-arrowless is-hoverable">
@@ -52,13 +57,10 @@ const Navbar = () => {
                   About
                 </a>        
                 <div className="navbar-dropdown">
-                  <a className="navbar-item" href="/about#meet-olivia">
+                <Link className="navbar-item" to="/about">
                     Meet Olivia
-                  </a>
-                  {/* <Link className="navbar-item" to="/about#meet-olivia">
-                    About Olivia
-                  </Link> */}
-                  <Link className="navbar-item" to="/about">
+                  </Link>
+                  <Link className="navbar-item" to="/nutrition">
                     Holistic Nutrition
                   </Link>
                 </div>
@@ -74,16 +76,18 @@ const Navbar = () => {
               Contact
             </Link>
             </li>
+
             {/* <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Form Examples
             </Link>
             </li> */}
-            <li className="navbar-item" style={{padding: "0px"}}>
+            {/* <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact/examples">
               Social
             </Link>
-            </li>
+            </li> */}
+
           <li className="navbar-end has-text-centered" >
             <Link className="navbar-item" to="https://facebook.com">
               <span className="icon">

@@ -17,26 +17,14 @@ intro:
       text: >
         Looking to improve your nutrition and overall health? Schedule a consultation with a certified nutritionist today. Our personalized approach will help you reach your health goals and improve your relationship with food.
       link:
-        url: "/"
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
         text: "Book Consultation"
     - image: /img/singing-bowl.jpg
       text: >
         Experience the transformative power of sound and energy healing. Our trained practitioners use a variety of techniques, including sound therapy and chakra balancing, to promote physical, emotional, and spiritual well-being. Let the vibrations and energy of sound heal your body and mind, and discover the benefits for yourself.
       link:
-        url: "/"
+        url: "https://square.site/book/FF347440VY7EP/desire-radiant-health"
         text: "Book Healing"
-    - image: /img/warm-orange-squash-soup.jpg
-      text: >
-        Learn how to create your own nourishing, whole foods and holistic products at home with our cooking and product making classes. Our experienced instructors will guide you through the process of using fresh, organic ingredients to make healthy meals and natural skincare, cleaning, and wellness products. Enhance your culinary and DIY skills and discover the joy of cooking and creation with nature's bounty.
-      link:
-        url: "/"
-        text: "Book Class"
-    - image: /img/organic-supermarket.jpg
-      text: >
-        Looking to learn more about organic food and non-GMO products? Our education classes cover the benefits of choosing organic and non-GMO options, as well as how to spot them in the grocery store. Discover the positive impact these choices can have on your health, the environment, and the food industry as a whole. Join us and start making more informed, sustainable food choices today.
-      link:
-        url: "/"
-        text: "Book Tour"
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -44,6 +32,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 full_image: /img/mango_white.jpg
+full_image2: /img/citrus-fruit-isolated.jpg
 main:
   heading: Great food without compromise
   description: >

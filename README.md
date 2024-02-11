@@ -142,19 +142,19 @@ please read the [code of conduct](CODE_OF_CONDUCT.md).
 - about page new lines
 - markdown file formatting, font, spacing (about page)
 - https://desireradianthealth.wixsite.com/health/single-post/you-cant-heal-out-of-desire
-- fix up console warnings/errors
+- ~~fix up console warnings/errors~~
 - Index (General)
-  - General Put Detox above Blog
-  - Remove blue gradient
+  - ~~General Put Detox above Blog~~
+  - ~~Remove blue gradient~~
   - Put freebie pic where blue gradient was
   - Embed Mailer Service
-  - Fix navbar styling
+  ~~- Fix navbar styling~~
   - Add Booking to Navbar (Holistic Nutrition, Energy Healing)
   - Remove Social page (temporarily)
-- Index (services)
-  - 1: Book Free 15 minute phone call
-  - 2: Holistic Nutrition Consultations
-  - 3: Energy & Sound Healing
+~~- Index (services)~~
+~~  - 1: Book Free 15 minute phone call~~
+~~- 2: Holistic Nutrition Consultations~~
+~~ - 3: Energy & Sound Healing~~
 - Services
   - ~~Put booking embed on top of services~~
   - Keep services in same order

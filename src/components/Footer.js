@@ -6,6 +6,7 @@ import instagram from "../img/social/instagram.svg";
 import youtube from "../img/social/youtube.svg";
 import pinterest from "../img/social/pinterest.svg";
 import twitter from "../img/social/twitter.svg";
+import logo from "../img/logo-small.png";
 
 const Footer = () => {
   return (
@@ -45,6 +46,11 @@ const Footer = () => {
       
       <div id="footer-container" className="columns content hero-body mb-0">
         <div className="column is-4 px-4">
+          <img
+            src={logo}
+            alt="Desire Radiant Health"
+              style={{ width: "5em", height: "auto" }}
+            />
           <h2 className="title is-4">Desire Radiant Health</h2>
           <h4 className="subtitle is-6">
             Make the right decisions for your health.
@@ -55,7 +61,7 @@ const Footer = () => {
           <a href="tel:16473896501" className="email-link subtitle is-6 mb-4">1-647-389-6501</a>
           </p>
         </div>
-        <div className="column px-4">
+        <div className="column px-4" style={{marginTop: "6rem"}}>
           <ul className="footer-menu-list m-0">
             <li>
               <Link className="" to="/">
@@ -74,7 +80,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="column px-4">
+        <div className="column px-4" style={{marginTop: "6rem"}}>
           <ul className="footer-menu-list m-0">
             <li>
               <Link className="" to="/contact/examples">
@@ -93,7 +99,7 @@ const Footer = () => {
             </li>
           </ul>
         </div>
-        <div className="column social px-4">
+        <div className="column social px-4" style={{marginTop: "6rem"}}>
           <h2 className="title is-6 mb-0">Let's Chat</h2>
 
           <div className="social-links">

@@ -7,10 +7,13 @@ const useScript = (url, id) => {
     script.src = url;
     script.async = true;
 
-    document.getElementById(id).appendChild(script);
+    const el = document.getElementById(id)
+    el.appendChild(script);
 
     return () => {
-      document.getElementById(id).removeChild(script);
+      if (el == null) {
+        el.removeChild(script);
+      }
     }
   }, [url, id]);
 };
