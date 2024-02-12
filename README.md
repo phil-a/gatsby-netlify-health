@@ -135,33 +135,14 @@ Contributions are always welcome, no matter how large or small. Before contribut
 please read the [code of conduct](CODE_OF_CONDUCT.md).
 
 # Todo
-- colors
-- separate about pages (match page titles with navbar)
-- add 'our mission' to about
-  - switch order of logo + meet olivia
-- about page new lines
-- markdown file formatting, font, spacing (about page)
-- https://desireradianthealth.wixsite.com/health/single-post/you-cant-heal-out-of-desire
-- ~~fix up console warnings/errors~~
-- Index (General)
-  - ~~General Put Detox above Blog~~
-  - ~~Remove blue gradient~~
-  - Put freebie pic where blue gradient was
-  - Embed Mailer Service
-  ~~- Fix navbar styling~~
-  - Add Booking to Navbar (Holistic Nutrition, Energy Healing)
-  - Remove Social page (temporarily)
-~~- Index (services)~~
-~~  - 1: Book Free 15 minute phone call~~
-~~- 2: Holistic Nutrition Consultations~~
-~~ - 3: Energy & Sound Healing~~
-- Services
-  - ~~Put booking embed on top of services~~
-  - Keep services in same order
-  - Separate embed into own booking page
-- About
-  - Separate Pages - About Us & Holistic Nutrition
-- Blog
-  - Fix blog posts component styling
-- Contact
-  - Fix color and image
+- Fix markdown formatting
+- ~~Fix tag styling~~
+- ~~Fix mobile padding for blog posts~~
+- Add inline YouTube videos
+- Add Email Marketing Subscription Form (Mailchimp / Klaviyo)
+- Remove Pinterest + Twitter, Add TikTok
+- Fix blog post preview limitations
+- Update Blog header
+- Integrate Social Media (Instagram)
+- Replace testimonial component
+- Add loading notification for square plugin

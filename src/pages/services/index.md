@@ -53,13 +53,13 @@ main:
     journey. We personalize each visit to make sure your healing conditions are balanced and
     optimal.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Eggplants, figs, blueberries, artichokes and apples.
     image: /img/dark-eggplant-figs.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Breaded and roasted cauliflower with a zucchini and carrot spinach salad.
     image: /img/cauli.jpg
   image3:
-    alt: Coffee beans
+    alt: Over the top wooden bowl with colorful mixed veggie salad.
     image: /img/table-board-salad.jpg
 testimonials:
   - author: Sarah Davis
