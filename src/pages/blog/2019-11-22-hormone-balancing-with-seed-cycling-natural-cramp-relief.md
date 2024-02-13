@@ -22,7 +22,7 @@ Ladies!
 
 Watch my latest video for an in-depth explanation of hormone balancing and regulating your menstrual cycle from a holistic nutrition perspective! I'm using the wise old method of seed cycling with the moon phases. 
 
-[Youtube video](https://www.youtube.com/watch?v=aU7hXFZK1aA&)
+`youtube: aU7hXFZK1aA&`
 
 Topics Covered: 
 

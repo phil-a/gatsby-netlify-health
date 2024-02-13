@@ -17,17 +17,9 @@ tags:
 ![owningyouridentity](/img/owning-your-identity.webp)
 The question we are all asked at all ages, ever changing with time and circumstances.
 
- 
-
 I'll start. Today I can say I am brave, determined, I love to laugh, dance, sing, practice yoga, learn, eat healthy, enjoy the outdoors, connect to spirituality, connect to nature and animals, etc.
 
- 
-
 Eight years ago, I would have answered with labels of my most recent diagnosis. 
-
- 
-
- 
 
 My 17-year-old self wrote in my diary: 
 
@@ -45,18 +37,9 @@ My 17-year-old self wrote in my diary:
 
 ..."
 
- 
-
- 
-
 Yes, that's how I identified myself. What have I learned since then? That's how most people identify! They don't identify with their personality and their interests, but instead with their illness(es). You are not a disease. You are a living, breathing, human being with an immaculate and original personality. Don't dull your presence by your illness. "Mind over matter" truly is the best motto. 
 
- 
-
 You feel better when you think highly of yourself and your value. Think about the frequencies of the words you are saying. Do they emit low frequencies or high frequencies that radiate throughout your body? These are important things to think about.
-
- 
- 
 
 YOU are intelligent. 
 

@@ -11,7 +11,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=3Eq7GQ1BVjc)
+`youtube: 3Eq7GQ1BVjc`
 
 *** Mantra: "The opposite of love is fear.  Breathe in love & exhale any fear that no longer serves you anymore." ***
 

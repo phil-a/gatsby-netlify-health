@@ -24,7 +24,7 @@ tags:
 
 ---
 
-[Youtube Video](https://youtu.be/HNfioI_vcR4?si=xNniKyw3Ss5QgtPK) 
+`youtube: HNfioI_vcR4`
 
 I recovered from two eating disorders myself. I feel so lucky that when I speak about it, it feels like I'm speaking about another person. It's so distant from my current reality that it doesn't even feel like I'm speaking about myself. That means I'm truly free.
 

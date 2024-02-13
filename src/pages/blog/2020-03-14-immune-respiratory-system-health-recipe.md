@@ -20,7 +20,7 @@ tags:
 
 ![Cold pressed juice](/img/immune-system-juice.png)
 
-[Watch video](https://www.youtube.com/watch?v=Roq09yhEO2o)
+`youtube: Roq09yhEO2o`
 
 Prevention, Prevention, Prevention. Can I get an amen? ⁣ ⁣ 
 

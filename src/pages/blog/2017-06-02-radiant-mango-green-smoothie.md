@@ -15,6 +15,7 @@ tags:
   - nutrition 
   - holisticnutrition
 ---
+
 ![radiant-mango-green-smoothie](/img/radiant-mango-green-smoothie.webp)
 
 It's no secret that I love smoothies. I am a nutritionist after all. They make me look forward to my mornings!

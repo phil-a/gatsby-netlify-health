@@ -19,8 +19,7 @@ How to make your own natural toothpaste, with only a few key ingredients!
 
 Sick of the chemicals and heavy metals found in conventional toothpaste, especially fluoride that has been classified as a neurotoxin? You can purchase natural toothpaste from your local health food store, but if you're a DIY kind of person at heart (like I am), here is my first toothpaste recipe, without essential oils!
 
-[Youtube video](https://youtu.be/NzUuAleieqw?si=Rzjut5hdZGr2txma)
-
+`youtube: NzUuAleieqw`
 
 Recipe: 
 

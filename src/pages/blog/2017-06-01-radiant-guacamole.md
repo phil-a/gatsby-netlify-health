@@ -23,6 +23,7 @@ tags:
   - nutrition 
   - holisticnutrition
 ---
+
 ![radiant-guacamole](/img/radiant-guacamole.webp)
 
 You've probably heard a lot about avocados lately (like the new adorable emoji), but these fruits (yes, they are fruits) are loaded with B vitamins! B vitamins are your anti-stress vitamins. Anti-stress vitamins are great for all of us in North America.

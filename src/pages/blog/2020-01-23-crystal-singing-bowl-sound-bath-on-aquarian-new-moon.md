@@ -11,7 +11,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=u6guHb-4yL4)
+`youtube: u6guHb-4yL4`
 
 Sound bath on the New Moon in Aquarius, January 2020
 

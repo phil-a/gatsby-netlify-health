@@ -17,7 +17,7 @@ tags:
 
 Watch my instructional video of how to make your own natural toothpaste! There are only 7 ingredients to make such a healthy alternative to store bought mainstream toothpaste. I recommend to avoid conventional toothpaste brands containing fluoride, sodium lauryl sulfate, triclosan, etc. There are natural toothpastes available in most health food stores, though I'm a DIY girl at heart. The joy of making it yourself is you get to control everything in it, the quality, the flavours, and it's very rewarding. 
 
-[Youtube video](https://www.youtube.com/watch?v=SDV24_RK5Kg)
+`youtube: SDV24_RK5Kg`
 
 
 Recipe: 

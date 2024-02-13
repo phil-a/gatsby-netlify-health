@@ -35,7 +35,7 @@ tags:
 ---
 ![Smudge Stick](/img/smudge-stick.webp)
 
-https://www.youtube.com/watch?v=qKJTT_qkC0s
+`youtube: qKJTT_qkC0s`
 
 As you know, I'm a holistic nutritionist, but a large part of my practice is energy healing! If you're a previous client of mine, you know I dedicate 30 minutes at the end of your Initial Assessment to energy healing. In the video above, watch me make my very first sage wands/smudge sticks and learn from me [and from my mistakes] how to make your own! It's quite easy once you get the hang of it. 
 

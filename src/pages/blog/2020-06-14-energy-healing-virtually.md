@@ -10,7 +10,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=hreofarqjRw)
+`youtube: hreofarqjRw`
 
 Do you feel called to experience this personally? If so, you may [book your Appointment here](https://square.site/book/FF347440VY7EP/desire-radiant-health) 💖  
 

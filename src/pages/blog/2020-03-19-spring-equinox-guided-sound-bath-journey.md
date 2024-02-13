@@ -12,7 +12,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=ZZdpcC2pFIQ)
+`youtube: ZZdpcC2pFIQ`
 
 This is my intuitive Guided Sound Bath Journey & Meditation on the night of Ostara Spring Equinox. Using crystal singing bowls, a Tibetan singing bowl, chimes, rain sticks, and my voice. Recorded on March 19, 2020.
 

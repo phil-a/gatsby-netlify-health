@@ -30,9 +30,8 @@ tags:
   - intuition
 
 ---
+
 ![oracle-reading-2019](/img/oracle-reading-2019.webp)
-
-
  
 
 I intended to only pick 3 cards, but 1 jumped out before I even picked these, and then I was intuitively guided to pick one extra card. So you all ended up getting 5 cards unintentionally!

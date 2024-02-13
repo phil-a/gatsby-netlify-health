@@ -14,7 +14,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=1v8ur24x8MA)
+`youtube: 1v8ur24x8MA`
 
 As a holistic nutritionist, I've heard this excuse from many people. Ever hear someone say, "I'm too busy to cook for myself" ... and those are the people regularly going to restaurants, fast food joints, or ordering UberEats or pizza in.  
 

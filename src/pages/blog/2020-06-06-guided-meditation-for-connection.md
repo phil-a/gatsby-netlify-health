@@ -14,7 +14,7 @@ tags:
 
 ---
 
-[Watch video](https://www.youtube.com/watch?v=0cwf4PMLWTA)
+`youtube: 0cwf4PMLWTA`
 
 A guided meditation with heart chakra singing bowls to revive a sense of connection, unity, and love. The isolation and fear of quarantine has made many people fear closeness and intimacy. The riots about George Floyd's unjust death and institutionalized racism have caused a divide. A virus has made people scared of breathing the same air as other people. What has this caused humanity (who's most primal need is touch) to feel? Separation, loneliness, depression, and worry.
 
