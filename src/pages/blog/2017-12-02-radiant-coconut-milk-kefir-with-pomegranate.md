@@ -66,9 +66,9 @@ Ingredients:
 
     1 tbsp. goji berries (optional: you may soak them in water to rehydrate them)  
 
-    3 tbsp. hemp hearts - [Manitoba Harvest](http://amzn.to/2AVtKFH)
+    3 tbsp. hemp hearts
 
-    1 tbsp. cacao nibs, [raw organic](http://www.amazon.ca/gp/product/B01MRV7A4F/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=desireradiant-20&camp=15121&creative=330641&linkCode=as2&creativeASIN=B01MRV7A4F&linkId=0f45eae99ccd4f9e14047c9b50b5641b)
+    1 tbsp. cacao nibs
 
 Instructions:
 

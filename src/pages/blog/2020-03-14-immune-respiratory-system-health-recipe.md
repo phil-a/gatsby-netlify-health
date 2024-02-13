@@ -3,8 +3,8 @@ templateKey: blog-post
 title: Immune System & Respiratory System Health Juice Recipe
 date: 2020-03-14T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/curried-lentil-veggie-dish.webp
-description: Curried Lentil & Veggie Dish! (Vegan & Gluten-Free Recipe)
+featuredimage: /img/immune-system-juice.png
+description: Cold-Pressed Juice is the best thing to consume when you're sick.
 tags:
   - holistic nutrition
   - carrots
@@ -17,6 +17,8 @@ tags:
   - recipe
 
 ---
+
+![Cold pressed juice](/img/immune-system-juice.png)
 
 [Watch video](https://www.youtube.com/watch?v=Roq09yhEO2o)
 

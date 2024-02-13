@@ -115,7 +115,7 @@ const Footer = () => {
           </a>
           <a
             title="instagram"
-            href="https://www.instagram.com/desireradianthealth/?hl=en"
+            href="https://www.instagram.com/desireradianthealth"
           >
             <img
               src={instagram}
@@ -125,7 +125,7 @@ const Footer = () => {
           </a>
           <a
             title="youtube"
-            href="https://m.youtube.com/channel/UCPHyM0fgHONfxgSRgNo70_A"
+            href="https://www.youtube.com/channel/UCPHyM0fgHONfxgSRgNo70_A"
           >
             <img
               src={youtube}
@@ -133,7 +133,7 @@ const Footer = () => {
               style={{ width: "1em", height: "1em" }}
             />
           </a>
-          <a title="pinterest" href="https://pinterest.com">
+          <a title="pinterest" href="https://www.pinterest.com/desireradianthealth">
             <img
               src={pinterest}
               alt="pinterest"

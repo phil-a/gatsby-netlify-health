@@ -89,14 +89,14 @@ const Navbar = () => {
             </li> */}
 
           <li className="navbar-end has-text-centered" >
-            <Link className="navbar-item" to="https://facebook.com">
+            <Link className="navbar-item" to="https://www.facebook.com/desireradianthealth">
               <span className="icon">
                 <img src={facebook} alt="Facebook" />
               </span>
             </Link>
             <a
               className="navbar-item"
-              href="https://instagram.com"
+              href="https://www.instagram.com/desireradianthealth"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -106,7 +106,7 @@ const Navbar = () => {
             </a>
             <a
               className="navbar-item"
-              href="https://youtube.com"
+              href="https://www.youtube.com/channel/UCPHyM0fgHONfxgSRgNo70_A"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -116,7 +116,7 @@ const Navbar = () => {
             </a>
             <a
               className="navbar-item"
-              href="https://pinterest.com"
+              href="https://www.pinterest.com/desireradianthealth/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -126,7 +126,7 @@ const Navbar = () => {
             </a>
             <a
               className="navbar-item"
-              href="https://twitter.com"
+              href="https://mobile.twitter.com/desireradiance"
               target="_blank"
               rel="noopener noreferrer"
             >
